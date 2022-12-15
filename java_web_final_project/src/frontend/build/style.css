@@ -1,0 +1,13 @@
+* {
+  background-color: beige;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+#dj {
+  text-align: center;
+  text-shadow: 3px;
+}
